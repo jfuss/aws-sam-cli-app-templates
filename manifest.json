@@ -645,6 +645,13 @@
         "dependencyManager": "pip",
         "appTemplate": "hello-world-lambda-image",
         "packageType": "Image"
+      },
+      {
+        "directory": "python3.8-image/cookiecutter-aws-sam-hello-python-lambda-image",
+        "displayName": "New Python3.8 Hello World Lambda Image Example in Python3.7",
+        "dependencyManager": "pip",
+        "appTemplate": "hello-world-lambda-image-2",
+        "packageType": "Image"
       }
     ],
     "amazon/python3.6-base": [
